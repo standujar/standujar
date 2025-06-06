@@ -7,7 +7,7 @@ DevOps engineer specializing in cloud infrastructure, automation, and developer 
 
 ## Tech Stack
 
-**Languages:** Go, TypeScript, Bash  
+**Languages:** Go, TypeScript, Python  
 **DevOps Tools:** Terraform, Kubernetes, AWS, Ansible, Docker  
 **Cloud:** AWS (ECS, Lambda, IAM, S3), EC2, EKS  
 **Frameworks:** Dagger, GitHub Actions, GitlabCI

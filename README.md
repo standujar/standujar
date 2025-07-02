@@ -6,7 +6,7 @@
 **DevOps Engineer** • **6+ years experience** • **Cloud Infrastructure Specialist**  
 *8+ years in software development • Automation & Developer Experience*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/standujar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislas-andujar-5172319b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 

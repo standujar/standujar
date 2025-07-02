@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/standujar?label=Stars&style=social)](https://github.com/standujar)
 
 **DevOps Engineer** • **6+ years experience** • **Cloud Infrastructure Specialist**  
-*8+ years in software development • Automation & Developer Experience Expert*
+*8+ years in software development • Automation & Developer Experience*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/standujar)
 

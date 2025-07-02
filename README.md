@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Standujar
+# 👋 Hello, I'm Stan
 
 [![GitHub followers](https://img.shields.io/github/followers/standujar?label=Follow&style=social)](https://github.com/standujar)
 [![GitHub stars](https://img.shields.io/github/stars/standujar?label=Stars&style=social)](https://github.com/standujar)

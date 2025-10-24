@@ -71,3 +71,14 @@
   ]
 }
 WALLET-LINKING-END -->
+<!-- X-LINKING-BEGIN
+{
+  "lastUpdated": "2025-10-24T15:41:41.446Z",
+  "xAccount": {
+    "xUsername": "stan_andujar",
+    "xUserId": "1441481437723742208",
+    "linkedAt": "2025-10-24T15:41:41.086Z",
+    "linkingProof": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnaXRodWJVc2VybmFtZSI6InN0YW5kdWphciIsInhVc2VySWQiOiIxNDQxNDgxNDM3NzIzNzQyMjA4IiwieFVzZXJuYW1lIjoic3Rhbl9hbmR1amFyIiwibGlua2VkQXQiOiIyMDI1LTEwLTI0VDE1OjQxOjQxLjA4NloiLCJpYXQiOjE3NjEzMjA1MDEsImlzcyI6InNlbmRvLWF1dGgtd29ya2VyIn0.kOHuPww3nTJ-pn0stBJE3Sz1y9ZYXtevmGck1zkT9NQ"
+  }
+}
+X-LINKING-END -->

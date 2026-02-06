@@ -27,7 +27,6 @@
 ## 💼 **Current Focus**
 
 - 🛠️ Core developer at [ElizaOS](https://github.com/elizaos) – building secure, local-first AI agent frameworks
-- 👨‍💻 DevOps at [Bedrock Streaming](https://bedrockstreaming.com/)
 - 🚀 Automating cloud-native deployments with Terraform & Kubernetes
 - 🔁 Designing GitOps pipelines with Dagger and GitHub Actions
 - 🧠 Supporting privacy-preserving AI and local inference on edge/enterprise infra

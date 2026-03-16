@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/standujar?label=Follow&style=social)](https://github.com/standujar)
 [![GitHub stars](https://img.shields.io/github/stars/standujar?label=Stars&style=social)](https://github.com/standujar)
 
-**DevOps Engineer** • **6+ years experience** • **Cloud Infrastructure Specialist**  
+**DevOps Engineer** • **7+ years experience** • **Cloud Infrastructure Specialist**  
 *8+ years in software development • Automation & Developer Experience*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislas-andujar-5172319b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)

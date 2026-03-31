@@ -46,6 +46,7 @@
 ## **Featured Projects**
 
 [![Soulmates](https://img.shields.io/badge/Soulmates-AI%20Dating%20Agent-blueviolet?style=for-the-badge&logo=github)](https://github.com/Soulmates-Land/soulmates)
+[![Sendo](https://img.shields.io/badge/Sendo-AI%20Crypto%20Advisor-orange?style=for-the-badge&logo=github)](https://github.com/Sendo-labs)
 [![ElizaOS](https://img.shields.io/badge/ElizaOS-AI%20Agent%20Framework-blue?style=for-the-badge&logo=github)](https://github.com/elizaos/eliza)
 
 ---

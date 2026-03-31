@@ -7,6 +7,7 @@
 *Cloud Infrastructure Specialist • Automation & Developer Experience*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislas-andujar-5172319b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![X](https://img.shields.io/badge/@stan__andujar-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stan_andujar)
 
 ---
 
@@ -39,6 +40,13 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=standujar&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=standujar&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+## **Featured Projects**
+
+[![Soulmates](https://img.shields.io/badge/Soulmates-AI%20Dating%20Agent-blueviolet?style=for-the-badge&logo=github)](https://github.com/Soulmates-Land/soulmates)
+[![ElizaOS](https://img.shields.io/badge/ElizaOS-AI%20Agent%20Framework-blue?style=for-the-badge&logo=github)](https://github.com/elizaos/eliza)
 
 ---
 

@@ -39,9 +39,9 @@
 
 ## Featured projects
 
-[![Soulmates](https://img.shields.io/badge/Soulmates-AI%20matchmaker-blueviolet?style=for-the-badge&logo=github)](https://github.com/Soulmates-Land/soulmates)
-[![ElizaOS](https://img.shields.io/badge/ElizaOS-AI%20agent%20framework-blue?style=for-the-badge&logo=github)](https://github.com/elizaos/eliza)
-[![plugin-n8n](https://img.shields.io/badge/plugin--n8n--workflow-author-7eff8e?style=for-the-badge&logo=github)](https://github.com/elizaos-plugins/plugin-n8n-workflow)
+[![Soulmates](https://img.shields.io/badge/Soulmates-AI%20Dating%20Agent-blueviolet?style=for-the-badge&logo=github)](https://github.com/Soulmates-Land/soulmates)
+[![Sendo](https://img.shields.io/badge/Sendo-AI%20Crypto%20Advisor-orange?style=for-the-badge&logo=github)](https://github.com/Sendo-labs)
+[![ElizaOS](https://img.shields.io/badge/ElizaOS-AI%20Agent%20Framework-blue?style=for-the-badge&logo=github)](https://github.com/elizaos/eliza)
 
 ---
 

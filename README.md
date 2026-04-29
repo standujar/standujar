@@ -1,7 +1,7 @@
 # Hi, I'm Stan
 
 [![Website](https://img.shields.io/badge/standujar.dev-0e0e0c?style=for-the-badge&logo=safari&logoColor=7eff8e)](https://standujar.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislas-andujar-5172319b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislas-a-5172319b)
 [![X](https://img.shields.io/badge/@stan__andujar-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stan_andujar)
 [![GitHub followers](https://img.shields.io/github/followers/standujar?label=Follow&style=social)](https://github.com/standujar)
 [![GitHub stars](https://img.shields.io/github/stars/standujar?label=Stars&style=social)](https://github.com/standujar)

@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislas-andujar-5172319b)
 [![X](https://img.shields.io/badge/@stan__andujar-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stan_andujar)
 [![GitHub followers](https://img.shields.io/github/followers/standujar?label=Follow&style=social)](https://github.com/standujar)
+[![GitHub stars](https://img.shields.io/github/stars/standujar?label=Stars&style=social)](https://github.com/standujar)
 
 **Platform / DevOps engineer · AI agent builder** · 8 years building cloud platforms and CI/CD pipelines at scale. Now shipping AI agents to production — autonomous or leading a team.
 
@@ -46,13 +47,16 @@
 
 ## GitHub activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=standujar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=standujar&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=standujar&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
 **Reach out:** [s.andujar@proton.me](mailto:s.andujar@proton.me) · [Book a 30-min intro call](https://cal.com/standujar/mail) · [standujar.dev](https://standujar.dev)
+
+**Support my work:**
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/standujar)
 
 <!-- WALLET-LINKING-BEGIN
 {
